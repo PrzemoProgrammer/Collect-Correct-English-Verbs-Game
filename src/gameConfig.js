@@ -1,0 +1,31 @@
+const WORDS = [
+  ["got", "gat", "git", "get"],
+  ["drew", "drawn", "drown", "draw"],
+  ["hit", "hat", "hitt", "hit"],
+  ["known", "knaw", "knew", "know"],
+  ["freezen", "froze", "frozen", "freeze"],
+  ["came", "come", "comen", "come"],
+  ["hit", "hidden", "hid", "hide"],
+  ["lied", "lay", "laid", "lay"],
+  ["flown", "flew", "flow", "fly"],
+  ["satt", "sate", "sat", "sit"],
+  ["tild", "told", "teld", "tell"],
+  ["won", "win", "winen", "win"],
+  ["shuten", "shat", "shut", "shut"],
+];
+
+const CORRECT_WORDS = [
+  "got",
+  "drew",
+  "hit",
+  "knew",
+  "froze",
+  "came",
+  "hid",
+  "laid",
+  "flew",
+  "sat",
+  "told",
+  "won",
+  "shut",
+];
