@@ -45,6 +45,7 @@ class PlayScene extends Phaser.Scene {
     this.addMusicButton();
     this.audio.machine.play();
     this.handleInputs = new HandleInputs(this);
+    document.getElementById("loading_page")?.remove();
   }
 
   update() {
